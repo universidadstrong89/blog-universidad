@@ -14,3 +14,5 @@ Blog Universidad Strong89
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
